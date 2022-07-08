@@ -1,7 +1,6 @@
 {
   "name": "webserver",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,6 +11,16 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
+    "handlebars": "^4.7.7",
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoBelmar88/webService.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoBelmar88/webService/issues"
+  },
+  "homepage": "https://github.com/JoBelmar88/webService#readme",
+  "description": ""
 }
